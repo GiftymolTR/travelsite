@@ -1,0 +1,86 @@
+#img {
+    margin-top: 20px;
+    background-image: url("./Images/bg.jpg");
+    height: 369px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+nav {
+    box-shadow: 5px 5px rgb(211, 196, 177);
+}
+
+h1,
+h4 {
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#logo {
+    height: 70px;
+}
+
+li {
+    text-decoration: underline;
+}
+
+h2 {
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 30px;
+    text-align: justify;
+}
+
+p {
+    text-align: center;
+}
+
+#img1,
+#img2,
+#img3,
+#img4,
+#img5,
+#img6,
+#img7,
+#img8,
+#img9 {
+    gap: 15px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+h5 {
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 2px 2px gray;
+
+
+}
+
+#up {
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 17px;
+    font-weight: 00;
+    margin-bottom: 289px;
+
+
+}
+
+.container {
+    margin-top: 20px;
+}
+
+section {
+    background-color: rgb(173, 97, 97);
+    height: 45px;
+    padding-top: 15px;
+}
